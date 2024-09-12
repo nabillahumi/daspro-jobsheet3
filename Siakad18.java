@@ -30,11 +30,6 @@ public class Siakad18 {
         System.out.println("Nama: " + nama + " NIM: " + nim);
         System.out.println("Kelas: " + kelas + " Absen: " + absen);
         System.out.println("Nilai Akhir: " +nilaiAkhir);
-
-
-
-
     }
     
-
 }
